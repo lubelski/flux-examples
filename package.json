@@ -1,0 +1,19 @@
+{
+  "name": "flux-examples",
+  "version": "1.0.0",
+  "description": "Examples of Flux Implementations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lubelski/flux-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lubelski/flux-examples/issues"
+  },
+  "homepage": "https://github.com/lubelski/flux-examples"
+}
